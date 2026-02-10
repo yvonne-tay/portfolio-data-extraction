@@ -45,4 +45,4 @@ pip install -r requirements.txt
 # 3) Run the script
 python src/extract_portfolio_data.py \
   --nodes CCORP HCORP \
-  --out src/sample_data/sample_output.csv
+  --out src/sample_data/sample_output.csv 
